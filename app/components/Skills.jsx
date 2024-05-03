@@ -8,7 +8,7 @@ const Skills = () => {
           <span className="text-[#03d3fc]">Skills</span>
         </h2>
         <p className="text-lg sm:text-xl mb-8">
-          Here are some of the skills I have acquired and technologies I'm proficient in:
+          Here are some of the skills I have acquired and technologies I&apos;m proficient in:
         </p>
         <div className="grid grid-cols-2 gap-6">
           <ul>
