@@ -12,7 +12,7 @@ const AboutMe = () => {
             Hi, I&apos;m Mubashir, a passionate web developer with a love for creating beautiful and functional websites. With a background in computer science and years of experience, I specialize in crafting responsive and user-friendly web applications.
           </p>
         </div>
-        <div className="mt-16 sm:mt-0 sm:ml-12"> {/* Adjusted margin-top from mt-10 to mt-16 */}
+        <div className="mt-16 sm:mt-0 sm:ml-12"> 
           <Image src="/images/img.png" alt="Profile Image" width={200} height={200} className="rounded-full border-4 border-white" />
         </div>
       </section>
