@@ -9,7 +9,7 @@ const AboutMe = () => {
             <span className="text-[#03d3fc]">About Me</span>
           </h2>
           <p className="text-lg sm:text-xl mb-8">
-            Hi, I'm Mubashir, a passionate web developer with a love for creating beautiful and functional websites. With a background in computer science and years of experience, I specialize in crafting responsive and user-friendly web applications.
+            Hi, I&apos;m Mubashir, a passionate web developer with a love for creating beautiful and functional websites. With a background in computer science and years of experience, I specialize in crafting responsive and user-friendly web applications.
           </p>
         </div>
         <div className="mt-16 sm:mt-0 sm:ml-12"> {/* Adjusted margin-top from mt-10 to mt-16 */}
