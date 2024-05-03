@@ -1,19 +1,26 @@
-// Navbar.js
-"use client"
 import Link from "next/link";
+import { FaFacebook, FaGithub, FaInstagram, FaLinkedin, FaTwitter } from "react-icons/fa"; // Import icons from react-icons library
 
 const Navbar = () => {
   return (
-    <nav className="bg-gray-800 p-4">
+    <nav className="bg-[#1d1e50] p-4">
       <div className="flex justify-between items-center">
-        <div className="text-white font-bold">
-          <Link href="/">Home</Link>
+        <div className="text-[#fff] font-bold">
+          <Link href="/">༺≛⃝𝓜𝓾𝓫𝓪𝓼𝓱𝓲𝓻  𝓐𝓵𝓲༻</Link>
         </div>
-        <div className="flex space-x-4">
-          <Link href="/about">About</Link>
-          <Link href="/skills">Skills</Link>
-          <Link href="/projects">Projects</Link>
-          <Link href="/contact">Contact</Link>
+        <div className="flex space-x-4 text-white">
+          <a href="https://github.com/mubashir1837">
+            <FaGithub />
+          </a>
+          <a href="https://linkedin.com/in/mubashirali3">
+            <FaLinkedin />
+          </a>
+          <a href="https://facebook.com/">
+            <FaFacebook/>
+            </a>
+          <a href="https://instagram.com/mubashir_aliyaar_37/">
+            <FaInstagram />
+          </a>
         </div>
       </div>
     </nav>
