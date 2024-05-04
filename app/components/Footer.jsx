@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="container mx-auto px-4 lg:px-0">
         <div className="flex flex-col lg:flex-row items-center justify-between">
           <div className="my-4 lg:my-0 text-center lg:text-left">
-            <h3 className="text-lg font-semibold mb-2 text-[#fff]">Let's Connect</h3>
+            <h3 className="text-lg font-semibold mb-2 text-[#fff]">Let&apos;s Connect</h3>
             <p className="text-sm text-[#ebe1e1] mb-4"> I&apos;m actively exploring new opportunities, and my inbox eagerly awaits your message.</p>
             <ul className="flex flex-wrap space-x-4 justify-center lg:justify-start">
               <li>

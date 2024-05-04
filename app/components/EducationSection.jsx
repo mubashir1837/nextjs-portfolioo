@@ -1,3 +1,4 @@
+"use cleint"
 import React from 'react';
 
 const EducationSection = () => {
@@ -15,7 +16,7 @@ const EducationSection = () => {
             <p className="text-[#fff] mb-4">Science</p>
             <p className="text-[#fff]">2019-2021</p>
           </div>
-          
+
           <div className="education-item bg-[#27b4e3] p-6 rounded-lg shadow-md">
             <h3 className="text-xl font-bold mb-4 text-[#fff]">Intermediate</h3>
             <p className="text-[#fff] mb-2">Uswa College Islamabad</p>
