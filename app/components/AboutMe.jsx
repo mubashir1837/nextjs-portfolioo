@@ -9,7 +9,11 @@ const AboutMe = () => {
             <span className="text-[#03d3fc]">About Me</span>
           </h2>
           <p className="text-lg sm:text-xl mb-8">
-            Hi, I&apos;m Mubashir, a passionate web developer with a love for creating beautiful and functional websites. With a background in computer science and years of experience, I specialize in crafting responsive and user-friendly web applications.
+          As an undergraduate computational biologist and dedicated web application 
+          developer from Pakistan, I merge my passion for programming languages with 
+          cutting-edge biological research. Crafting elegant code, I weave intricate 
+          digital solutions, bridging science and technology. With each line 
+          written, I advance towards a future where innovation knows no bound.
           </p>
         </div>
         <div className="mt-16 sm:mt-0 sm:ml-12"> 
