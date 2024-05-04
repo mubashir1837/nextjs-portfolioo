@@ -12,7 +12,7 @@ const Hero = () => {
         <div className="mt-4"> 
         <Link 
            href="http://Wa.me/+923275882664">
-          <button className="bg-[#a836eb] hover:bg-[#92b8d4] text-white font-bold py-2 px-4 mr-4 rounded">
+          <button className="bg-[#fff] hover:bg-[#92b8d4] text-[#27b4e3] font-bold py-2 px-4 mr-4 rounded">
             Hire Me
           </button>
           </Link>

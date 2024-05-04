@@ -16,7 +16,7 @@ const ProjectSection = () => {
                 This an ecommerce website designed by using HTML, CSS and JavaScript.
             </p>
             <a
-              href="#"
+              href="https://ecommerce-m.vercel.app/"
               className="text-blue-500 hover:underline mt-auto"
             >
               <button className="bg-[#27b4e3] hover:bg-[#92b8d4] text-white font-bold py-2 px-4 rounded">
@@ -31,7 +31,7 @@ const ProjectSection = () => {
               This project is showing Text Analyzer website
             </p>
             <a
-              href="#"
+              href="https://texts-analyzerr.vercel.app/"
               className="text-blue-500 hover:underline mt-auto"
             >
               <button className="bg-[#27b4e3] hover:bg-[#92b8d4] text-white font-bold py-2 px-4 rounded">
@@ -46,7 +46,7 @@ const ProjectSection = () => {
               This project is about food ordering website.
             </p>
             <a
-              href="#"
+              href="https://foodweb-five.vercel.app/"
               className="text-blue-500 hover:underline mt-auto"
             >
               <button className="bg-[#27b4e3] hover:bg-[#92b8d4] text-white font-bold py-2 px-4 rounded align-center">
