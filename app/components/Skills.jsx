@@ -17,7 +17,6 @@ const Skills = () => {
             <li className="mb-4">React.js</li>
             <li className="mb-4">Next.js</li>
             <li className="mb-4">JavaScript (ES6+)</li>
-            <li>Git/GitHub</li>
           </ul>
           <ul>
             <li className="mb-4">Tailwind CSS</li>
