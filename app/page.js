@@ -2,8 +2,8 @@ import React from "react";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import AboutMe from "./components/AboutMe";
-import EducationSection from "./components/EducationSection";
-import Skills from "./components/Skills"; 
+import Skills from "./components/Skills";
+import EducationSection from "./components/EducationSection"; 
 import ProjectSection from "./components/ProjectSection";
 import Footer from "./components/Footer";
 
@@ -15,8 +15,8 @@ export default function Home() {
       <div className="container mt-24 mx-auto px-12 py-0">
         <Hero />
         <AboutMe />
-        <EducationSection/>
         <Skills /> 
+        <EducationSection/>
         <ProjectSection/>
         <Footer/>
 
