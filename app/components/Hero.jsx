@@ -8,7 +8,7 @@ const Hero = () => {
     <section className="hero">
       <div className="text-center mt-8">
         <h1 className="mb-4 text-4xl sm:text-5xl lg:text-8xl lg:leading-normal font-extrabold text-white"><span className="text-[#03d3fc]">Hello I&apos;m</span> Mubashir</h1>
-        <p className="text-white text-base sm:text-lg mb-6 lg:text-xl">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada diam sit amet felis blandit, in vehicula mauris consectetur. Duis vehicula ante eget nisi vehicula, sit amet posuere nulla ultricies.</p>
+        <p className="text-white text-base sm:text-lg mb-6 lg:text-xl">A proficient programmer excels in web development, driven by a passion for crafting inventive solutions that push boundaries and inspire progress.</p>
         <div className="mt-4"> 
         <Link 
            href="http://Wa.me/+923275882664">
