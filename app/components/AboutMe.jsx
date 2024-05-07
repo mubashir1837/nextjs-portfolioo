@@ -6,7 +6,7 @@ const AboutMe = () => {
       <section className="about-me flex flex-col sm:flex-row items-center justify-center text-center sm:text-left py-24 mt-20"> {/* Adjusted margin from mt-12 to mt-20 */}
         <div className="text-white max-w-lg">
           <h2 className="mb-6 text-4xl sm:text-5xl lg:text-6xl font-extrabold">
-            <span className="text-[#03d3fc]">About Me</span>
+            <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#1ff] to-[#fff]">About Me</span>
           </h2>
           <p className="text-lg sm:text-xl mb-8">
           As an undergraduate computational biologist and dedicated web application 

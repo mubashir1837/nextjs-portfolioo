@@ -5,7 +5,7 @@ const Skills = () => {
     <section className="skills flex flex-col items-center justify-center text-center py-24 mt-20">
       <div className="text-white max-w-lg">
         <h2 className="mb-6 text-4xl sm:text-5xl lg:text-6xl font-extrabold">
-          <span className="text-[#03d3fc]">Skills</span>
+          <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#1ff] to-[#fff]">Skills</span>
         </h2>
         <p className="text-lg sm:text-xl mb-8">
           Here are some of the skills I have acquired and technologies I&apos;m proficient in:
