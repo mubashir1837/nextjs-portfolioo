@@ -41,6 +41,36 @@ const ProjectSection = () => {
           </div>
         
           <div className="project-box bg-[#27b4e3] p-6 rounded-lg shadow-md flex flex-col">
+            <h3 className="text-xl font-bold mb-4 text-[#fff]">Calculator</h3>
+            <p className="text-[#fff] mb-4">
+              This project shows Calculator a app designed with HTML, CSS and JavaScript only.
+            </p>
+            <a
+              href="https://calculator-j.vercel.app/"
+              className="text-blue-500 hover:underline mt-auto"
+            >
+              <button className="bg-[#fff] hover:bg-[#1ff] text-[#94d1d1] hover:text-[#fff] font-bold py-2 px-4 rounded">
+                View project
+              </button>
+            </a>
+          </div>
+        
+          <div className="project-box bg-[#27b4e3] p-6 rounded-lg shadow-md flex flex-col">
+            <h3 className="text-xl font-bold mb-4 text-[#fff]">Portfolio website</h3>
+            <p className="text-[#fff] mb-4">
+              This is a Portfolio website designed with nextjs, it show cases your skills, eduactions, projects etc.
+            </p>
+            <a
+              href="https://texts-analyzerr.vercel.app/"
+              className="text-blue-500 hover:underline mt-auto"
+            >
+              <button className="bg-[#fff] hover:bg-[#1ff] text-[#94d1d1] hover:text-[#fff] font-bold py-2 px-4 rounded">
+                View project
+              </button>
+            </a>
+          </div>
+        
+          <div className="project-box bg-[#27b4e3] p-6 rounded-lg shadow-md flex flex-col">
             <h3 className="text-xl font-bold mb-4 text-[#fff]">Food ordering website</h3>
             <p className="text-[#fff] mb-4">
               This project is about food ordering website.
