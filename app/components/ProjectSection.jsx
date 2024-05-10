@@ -43,7 +43,7 @@ const ProjectSection = () => {
           <div className="project-box bg-[#27b4e3] p-6 rounded-lg shadow-md flex flex-col">
             <h3 className="text-xl font-bold mb-4 text-[#fff]">Calculator</h3>
             <p className="text-[#fff] mb-4">
-              This project shows Calculator a app designed with HTML, CSS and JavaScript only.
+              This project shows a calculator app designed with HTML, CSS and JavaScript only.
             </p>
             <a
               href="https://calculator-j.vercel.app/"
