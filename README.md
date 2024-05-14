@@ -1,40 +1,37 @@
-## About
-This is a portfolio website it showcases your skills and projects
+# Mubashir Ali's Portfolio Website
 
-## Mubashir Ali
-   [!Github](https://github.com/mubashir1837) 
+Welcome to my portfolio website! This website showcases my projects, skills, and experience as a designer and developer.
 
+## About Me
+I am Mubashir Ali, a passionate designer and developer with a keen interest in creating user-centered digital experiences.
 
-## Getting Started
+## Portfolio
+You can view my portfolio website [here](https://awesome-portfolio2024.vercel.app/).
 
-First, run the development server:
+## Connect with Me
+- **GitHub**: [mubashir1837](http://github.com/mubashir1837/)
+- **LinkedIn**: [Mubashir Ali](https://linkedin.com/in/mubashirali3)
 
-```bash
+## How to Contribute
+If you'd like to contribute to my portfolio website, you can follow these steps:
 
-## install dependencies
-npm install
-#open on local host
-npm run dev
+1. **Fork** the repository.
+2. **Clone** the forked repository to your local machine:
+    ```
+    git clone https://github.com/mubashir1837/portfolio-website.git
+    ```
+3. Make your changes and enhancements.
+4. **Commit** your changes:
+    ```
+    git commit -am 'Added feature XYZ'
+    ```
+5. **Push** to your forked repository:
+    ```
+    git push origin master
+    ```
+6. Finally, create a new **Pull Request** from your forked repository to the original repository.
 
-```
+Thank you for your contributions!
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [ GitHub repository](https://github.com/mubashir1837/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## License
+This project is licensed under the [MIT License](LICENSE).
