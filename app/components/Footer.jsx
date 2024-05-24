@@ -1,4 +1,4 @@
-import { FaTelegram, FaTwitter, FaEnvelope, FaSkype, FaWhatsapp } from 'react-icons/fa';
+import { FaTelegram, FaTwitter, FaEnvelope, FaSkype, FaWhatsapp, FaYoutube } from 'react-icons/fa';
 
 const githubProfilePhotoUrl = "https://avatars.githubusercontent.com/u/163585695?v=4";
 
@@ -29,6 +29,11 @@ const Footer = () => {
               <li>
                 <a href="https://join.skype.com/invite/tbUVmyPL6ySt" className="flex items-center hover:text-[#1ff]">
                   <FaSkype className="mr-2 text-[#fff]" /> 
+                </a>
+              </li>
+              <li>
+                <a href="https://www.youtube.com/@BismiAllah_coder" className="flex items-center hover:text-[#579b9b]">
+                  <FaYoutube className="mr-2 text-white" /> 
                 </a>
               </li>
               <li>

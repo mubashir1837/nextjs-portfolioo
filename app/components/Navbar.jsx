@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { FaFacebook, FaGithub, FaInstagram, FaLinkedin, FaTwitter } from "react-icons/fa"; 
+import { FaFacebook, FaGithub, FaInstagram, FaLinkedin,  FaYoutube } from "react-icons/fa"; 
 
 const Navbar = () => {
   return (
@@ -20,6 +20,9 @@ const Navbar = () => {
             </a>
           <a href="https://instagram.com/mubashir_aliyaar_37/">
             <FaInstagram />
+          </a>
+          <a href="https://www.youtube.com/@BismiAllah_coder">
+            <FaYoutube/>
           </a>
         </div>
       </div>
