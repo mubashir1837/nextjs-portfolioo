@@ -9,7 +9,7 @@ const AboutMe = () => {
       <SEO
         title="About Me"
         description="Learn more about me, my background, and my interests."
-        keywords="about me, background, biography"
+        keywords="about me, background, biography, beautiful about me"
       />
       <section className="about-me flex flex-col sm:flex-row items-center justify-center text-center sm:text-left py-24 mt-20"> 
         <div className="text-white max-w-lg">

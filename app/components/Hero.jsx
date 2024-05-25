@@ -14,7 +14,7 @@ const Hero = () => {
       <section className="hero py-12">
         <div className="text-center mt-8">
           <h1 className="mb-4 text-4xl sm:text-5xl lg:text-8xl lg:leading-normal font-extrabold text-white">
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#1ff] to-[#fff]">Hello I'm </span> Mubashir
+            <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#1ff] to-[#fff]">Hello I&apos;m </span> Mubashir
           </h1>
           <p className="text-white text-base sm:text-lg mb-6 lg:text-xl">
             A proficient programmer excels in web development, driven by a passion for crafting inventive solutions that push boundaries and inspire progress.
